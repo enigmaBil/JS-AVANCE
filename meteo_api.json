@@ -1,0 +1,236 @@
+{
+    "Paris": {
+        "temperature": "15°C",
+        "condition": "Cloudy",
+        "humidity": "70%",
+        "wind_speed": "15 km/h",
+        "sunrise": "07:45",
+        "sunset": "17:30",
+        "description": "Le ciel est couvert, mais il ne pleut pas."
+    },
+    "New York": {
+        "temperature": "22°C",
+        "condition": "Sunny",
+        "humidity": "50%",
+        "wind_speed": "10 km/h",
+        "sunrise": "06:55",
+        "sunset": "18:25",
+        "description": "Un temps ensoleillé parfait pour une promenade."
+    },
+    "Tokyo": {
+        "temperature": "18°C",
+        "condition": "Rainy",
+        "humidity": "80%",
+        "wind_speed": "20 km/h",
+        "sunrise": "06:10",
+        "sunset": "16:45",
+        "description": "Des averses fréquentes, prévoyez un parapluie."
+    },
+    "Berlin": {
+        "temperature": "10°C",
+        "condition": "Foggy",
+        "humidity": "85%",
+        "wind_speed": "5 km/h",
+        "sunrise": "08:00",
+        "sunset": "16:15",
+        "description": "Une brume dense recouvre la ville, visibilité réduite."
+    },
+    "Cairo": {
+        "temperature": "30°C",
+        "condition": "Sunny",
+        "humidity": "20%",
+        "wind_speed": "12 km/h",
+        "sunrise": "06:30",
+        "sunset": "17:15",
+        "description": "Une journée chaude et ensoleillée, restez hydraté."
+    },
+    "Sydney": {
+        "temperature": "25°C",
+        "condition": "Partly Cloudy",
+        "humidity": "60%",
+        "wind_speed": "18 km/h",
+        "sunrise": "05:45",
+        "sunset": "20:30",
+        "description": "Des nuages épars, mais une belle journée dans l'ensemble."
+    },
+    "Moscow": {
+        "temperature": "-5°C",
+        "condition": "Snowy",
+        "humidity": "90%",
+        "wind_speed": "25 km/h",
+        "sunrise": "09:15",
+        "sunset": "15:45",
+        "description": "De la neige continue, prévoyez des vêtements chauds."
+    },
+    "London": {
+        "temperature": "12°C",
+        "condition": "Rainy",
+        "humidity": "75%",
+        "wind_speed": "20 km/h",
+        "sunrise": "07:00",
+        "sunset": "16:45",
+        "description": "Pluie légère tout au long de la journée."
+    },
+    "Madrid": {
+        "temperature": "20°C",
+        "condition": "Sunny",
+        "humidity": "40%",
+        "wind_speed": "10 km/h",
+        "sunrise": "07:30",
+        "sunset": "18:00",
+        "description": "Une journée ensoleillée parfaite pour explorer la ville."
+    },
+    "Beijing": {
+        "temperature": "16°C",
+        "condition": "Hazy",
+        "humidity": "65%",
+        "wind_speed": "8 km/h",
+        "sunrise": "06:45",
+        "sunset": "18:10",
+        "description": "Un léger brouillard persiste, mais le temps est agréable."
+    },
+    "Rio de Janeiro": {
+        "temperature": "28°C",
+        "condition": "Sunny",
+        "humidity": "55%",
+        "wind_speed": "15 km/h",
+        "sunrise": "05:30",
+        "sunset": "18:45",
+        "description": "Temps chaud et ensoleillé, idéal pour la plage."
+    },
+    "Cape Town": {
+        "temperature": "22°C",
+        "condition": "Windy",
+        "humidity": "50%",
+        "wind_speed": "30 km/h",
+        "sunrise": "06:15",
+        "sunset": "20:00",
+        "description": "Temps venteux, mais agréable avec un ciel dégagé."
+    },
+    "Mumbai": {
+        "temperature": "32°C",
+        "condition": "Humid",
+        "humidity": "70%",
+        "wind_speed": "12 km/h",
+        "sunrise": "06:25",
+        "sunset": "18:50",
+        "description": "Chaleur et humidité élevées, préparez-vous à transpirer."
+    },
+    "Dubai": {
+        "temperature": "35°C",
+        "condition": "Sunny",
+        "humidity": "15%",
+        "wind_speed": "10 km/h",
+        "sunrise": "06:00",
+        "sunset": "18:10",
+        "description": "Chaleur intense avec un soleil éclatant."
+    },
+    "Buenos Aires": {
+        "temperature": "24°C",
+        "condition": "Sunny",
+        "humidity": "45%",
+        "wind_speed": "15 km/h",
+        "sunrise": "05:45",
+        "sunset": "19:30",
+        "description": "Une journée ensoleillée idéale pour profiter des parcs."
+    },
+    "Nairobi": {
+        "temperature": "18°C",
+        "condition": "Cloudy",
+        "humidity": "60%",
+        "wind_speed": "10 km/h",
+        "sunrise": "06:30",
+        "sunset": "18:45",
+        "description": "Temps agréable avec quelques nuages passagers."
+    },
+    "Lagos": {
+        "temperature": "27°C",
+        "condition": "Rainy",
+        "humidity": "80%",
+        "wind_speed": "12 km/h",
+        "sunrise": "06:15",
+        "sunset": "18:35",
+        "description": "Des averses intermittentes dans l'après-midi."
+    },
+    "Bangkok": {
+        "temperature": "34°C",
+        "condition": "Humid",
+        "humidity": "85%",
+        "wind_speed": "10 km/h",
+        "sunrise": "06:20",
+        "sunset": "18:25",
+        "description": "Chaleur étouffante avec une forte humidité."
+    },
+    "Singapore": {
+        "temperature": "31°C",
+        "condition": "Thunderstorms",
+        "humidity": "90%",
+        "wind_speed": "20 km/h",
+        "sunrise": "06:40",
+        "sunset": "18:55",
+        "description": "Orages fréquents dans l'après-midi."
+    },
+    "San Francisco": {
+        "temperature": "18°C",
+        "condition": "Foggy",
+        "humidity": "80%",
+        "wind_speed": "12 km/h",
+        "sunrise": "07:00",
+        "sunset": "17:15",
+        "description": "Brouillard matinal avec un ciel dégagé l'après-midi."
+    },
+    "Los Angeles": {
+        "temperature": "25°C",
+        "condition": "Sunny",
+        "humidity": "40%",
+        "wind_speed": "8 km/h",
+        "sunrise": "06:30",
+        "sunset": "17:00",
+        "description": "Temps parfait pour profiter de la plage."
+    },
+    "Seoul": {
+        "temperature": "14°C",
+        "condition": "Cloudy",
+        "humidity": "60%",
+        "wind_speed": "15 km/h",
+        "sunrise": "06:10",
+        "sunset": "17:50",
+        "description": "Une journée couverte mais agréable."
+    },
+    "Rome": {
+        "temperature": "21°C",
+        "condition": "Sunny",
+        "humidity": "50%",
+        "wind_speed": "5 km/h",
+        "sunrise": "06:45",
+        "sunset": "18:10",
+        "description": "Ciel clair, parfait pour une promenade."
+    },
+    "Toronto": {
+        "temperature": "10°C",
+        "condition": "Rainy",
+        "humidity": "75%",
+        "wind_speed": "20 km/h",
+        "sunrise": "07:15",
+        "sunset": "18:00",
+        "description": "Temps pluvieux, prévoyez un parapluie."
+    },
+    "Melbourne": {
+        "temperature": "20°C",
+        "condition": "Windy",
+        "humidity": "55%",
+        "wind_speed": "25 km/h",
+        "sunrise": "06:30",
+        "sunset": "19:45",
+        "description": "Temps venteux avec quelques nuages."
+    },
+    "Mexico City": {
+        "temperature": "22°C",
+        "condition": "Cloudy",
+        "humidity": "65%",
+        "wind_speed": "10 km/h",
+        "sunrise": "06:40",
+        "sunset": "18:20",
+        "description": "Ciel nuageux avec des possibilités de pluie."
+    }
+}
